@@ -2,6 +2,9 @@
 
 **TumorSight** is an advanced, AI-powered application designed for the early detection of brain tumors through MRI scan analysis. The app provides a streamlined interface to upload, process, and view diagnostic results, enabling healthcare professionals to make fast, reliable assessments.
 
+![image](https://github.com/user-attachments/assets/8ec147d2-121f-407f-a740-e01da856ad83)
+
+
 ## Tagline
 *"See Beyond the Surface, Detect with Confidence."*
 
